@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  width: 500px;
+  background: yellowgreen;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.input {
+  margin-left: 10px;
+  margin: 2px;
+  width: 90px;
+}
+
+.btn {
+  margin-left: 5px;
+  margin-top: 5px;
+  background: burlywood;
+  width: 100px;
+}
